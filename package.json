@@ -2,3 +2,7 @@
   "name": "react_projects",
   "packageManager": "yarn@3.1.1"
 }
+"scripts": {
+  "start": "some command to be run", 
+  "test": "(eslint lib || true) && jest"
+}
